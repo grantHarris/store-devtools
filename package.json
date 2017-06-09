@@ -2,8 +2,8 @@
   "name": "@ngrx/store-devtools",
   "version": "3.2.4",
   "description": "Developer tools for @ngrx/store",
-  "main": "./bundles/store-devtools.umd.js",
-  "module": "./index.js",
+  "main": "./release/bundles/store-devtools.umd.js",
+  "module": "./release/index.js",
   "scripts": {
     "karma": "karma start --single-run",
     "test:raw": "node tests.js",
